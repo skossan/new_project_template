@@ -1,0 +1,6 @@
+# Git
+.git
+.idea
+
+# Python
+venv

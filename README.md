@@ -1,7 +1,7 @@
 # This is a new project template.
 
-The frontend uses Vite, React and TypeScript.
-The backens uses Python and FastAPI.
+- The frontend uses Vite, React and TypeScript.
+- The backens uses Python and FastAPI.
 
 ## Installation instruction
 - Clone the repo

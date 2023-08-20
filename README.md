@@ -5,9 +5,8 @@
 
 ## Installation instruction
 - Clone the repo
-- Navigate to the client folder and run `npm install`
-- Navigate to the server folder and run `pip install -r requirements.txt`
-- Run the *start* script inside the Scripts folder.
+- Navigate to the scripts folder and run `install_dependencies`
+- Navigate to the scripts folder and run `start_servers`
 
 ## Requirements
 - You must have **npm** installed.

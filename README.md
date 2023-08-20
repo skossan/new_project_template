@@ -11,3 +11,4 @@
 ## Requirements
 - You must have **npm** installed.
 - You must have **Python** and **pip** installed.
+- You must have **Docker** installed.

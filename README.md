@@ -1,9 +1,9 @@
 # This is a boilerplate repo for starting any webdev project
 
 ## What the repo contains
-- Frontend: *Vite*, *React* and *TypeScript*.
-- Backend *Python* and *FastAPI*.
-- Deploy: *Docker Compose*
+- Frontend: **Vite**, **React** and **TypeScript'*.
+- Backend **Python** and **FastAPI**.
+- Deploy: **Docker Compose**
 
 ## Requirements
 - You must have **npm** installed.

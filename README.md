@@ -11,13 +11,15 @@
 - You must have **Docker** installed.
 
 ## How to configure the repo
-- Inside the `docker-compose.yml` file you will need to replace `image: username/client` with your own *Dockerhub* username (Note that there are two services, so you'll need to do it twice).
+- Inside the `docker/.env` file you will need to enter your DockerHub username.
 
 ## Installation instruction
 - Clone the repo
 - Navigate to the scripts folder and run `install_dependencies`
-- Navigate to the scripts folder and run `start_servers`
 
+## How to start the client and dev server
+- Navigate to the scripts folder and run `start_servers`
 
 ## Notes:
 -  **NOT** tested on `Linux` or `MacOS`.
+- You can use the (Code Runner)[https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner] extension for VSCode. This enables you to right-click and select run on the Python scripts.

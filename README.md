@@ -2,7 +2,7 @@
 
 ## What the repo contains
 - Frontend: **Vite**, **React** and **TypeScript**.
-- Backend **Python** and **FastAPI**.
+- Backend: **Python** and **FastAPI**.
 - Deploy: **Docker Compose**
 
 ## Requirements

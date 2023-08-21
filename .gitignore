@@ -1,6 +1,7 @@
 # Git
 .git
 .idea
+.env
 docker/.env
 
 

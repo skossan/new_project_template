@@ -12,3 +12,6 @@
 - You must have **npm** installed.
 - You must have **Python** and **pip** installed.
 - You must have **Docker** installed.
+
+## How to configure 
+- Inside the `docker-compose.yml` file you will need to replace `image: username/client` with your own *Dockerhub* username (Note that there are two services, so you'll need to do it twice).

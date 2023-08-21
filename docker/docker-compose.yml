@@ -14,7 +14,7 @@ services:
     build:
       context: ..
       dockerfile: ./docker/server.dockerfile
-    image: relmgren/server #Replace username
+    image: relmgren/server # Replace username
     restart: "no"
     ports:
       - 5001:3001

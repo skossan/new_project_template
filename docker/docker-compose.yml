@@ -5,7 +5,7 @@ services:
     build:
       context: ..
       dockerfile: ./docker/client.dockerfile
-    image: relmgren/client # Replace username
+    image: ${DOCKERHUB_USERNAME}/client
     restart: "no"
     ports:
       - 8080:80
@@ -14,7 +14,7 @@ services:
     build:
       context: ..
       dockerfile: ./docker/server.dockerfile
-    image: relmgren/server # Replace username
+    image: ${DOCKERHUB_USERNAME}/server
     restart: "no"
     ports:
       - 5001:3001

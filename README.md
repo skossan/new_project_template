@@ -17,3 +17,7 @@
 - Clone the repo
 - Navigate to the scripts folder and run `install_dependencies`
 - Navigate to the scripts folder and run `start_servers`
+
+
+## Notes:
+-  **NOT** tested on `Linux` or `MacOS`.

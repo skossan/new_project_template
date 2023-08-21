@@ -22,4 +22,4 @@
 
 ## Notes:
 -  **NOT** tested on `Linux` or `MacOS`.
-- You can use the (Code Runner)[https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner] extension for VSCode. This enables you to right-click and select run on the Python scripts.
+- You can use the [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) extension for VSCode. This enables you to right-click and select run on the Python scripts.

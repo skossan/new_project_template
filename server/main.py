@@ -2,8 +2,8 @@ from fastapi import FastAPI
 
 app = FastAPI()
 @app.on_event("startup")
-async def get_server_pid():
-    pass
+async def run_on_startup():
+    print('This function will run on startup')
 
 @app.get("/")
 def read_root():
